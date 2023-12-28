@@ -1,0 +1,10 @@
+langchain
+pandas
+numpy
+scikit-learn
+transformers
+openai
+nltk
+ipykernel
+mlflow
+flask
